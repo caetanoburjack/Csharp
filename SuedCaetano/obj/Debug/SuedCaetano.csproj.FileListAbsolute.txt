@@ -1,0 +1,6 @@
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\bin\Debug\SuedCaetano.exe.config
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\bin\Debug\SuedCaetano.exe
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\bin\Debug\SuedCaetano.pdb
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\obj\Debug\SuedCaetano.csproj.CoreCompileInputs.cache
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\obj\Debug\SuedCaetano.exe
+E:\PESSOAL\POS - CATOLICA\C#\SuedCaetano\SuedCaetano\obj\Debug\SuedCaetano.pdb
